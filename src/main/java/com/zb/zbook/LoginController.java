@@ -11,7 +11,8 @@ public class LoginController {
 
     public static void main(String[] args) {
         // 创建POST请求对象
-       // HttpPost httpPost = new HttpPost(url);
+ /*     HttpPost httpPost = new HttpPost(url);*/
+        System.out.println("333333");
     }
 
     @RequestMapping("/login")
