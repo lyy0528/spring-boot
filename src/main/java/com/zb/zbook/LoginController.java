@@ -12,7 +12,6 @@ public class LoginController {
     public static void main(String[] args) {
         // 创建POST请求对象
  /*     HttpPost httpPost = new HttpPost(url);*/
-        System.out.println("333333");
         System.out.println("33344444");
         System.out.println("34544765765");
         System.out.println("33333333333");
